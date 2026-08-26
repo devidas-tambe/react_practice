@@ -11,7 +11,7 @@ function App() {
     <>
     <h1>Hello World</h1>
     <h1 class="heading"> Welcome to reactjs</h1>
-    <p>Good afternoon</p>
+    <p>Good Afternoon</p>
     </>
   )
 }

@@ -8,7 +8,7 @@ function App() {
   const [count, setCount] = useState(0) 
 
   return (
-    <>
+    <> 
     <h1>Hello World</h1>
     <h1 class="heading"> Welcome to reactjs</h1>
     <p>Good Afternoon</p>

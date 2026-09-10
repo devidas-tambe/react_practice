@@ -7,7 +7,7 @@ import './App.css'
 function App() { 
   const [count, setCount] = useState(0)  
 
-  return (
+  return ( 
     <> 
     <h1>Hello World</h1>
     <h1 class="heading"> Welcome to reactjs</h1>

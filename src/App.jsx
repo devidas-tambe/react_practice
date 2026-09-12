@@ -13,7 +13,7 @@ function App() {
     <h1 class="heading"> Welcome to reactjs</h1>
     <p>Good Afternoon</p>
     </>
-  )
+  ) 
 }
 
 export default App

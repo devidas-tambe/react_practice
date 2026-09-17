@@ -10,7 +10,7 @@ function App() {
   return ( 
     <>  
     <h1>Hello World</h1> 
-    <h1 class="heading"> Welcome to reactjs</h1>
+    <h1 class="heading"> Welcome to Reactjs</h1>
     <p>Good Afternoon</p>
     </>
   ) 

@@ -14,6 +14,6 @@ function App() {
     <p>Good Afternoon</p>
     </> 
   ) 
-}
+} 
 
 export default App
